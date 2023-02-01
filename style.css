@@ -54,7 +54,7 @@ nav div {
   display: none;
 }
 .hero {
-  background-color: var(--DarkViolet);
+  background-color: var(--VeryDarkViolet);
 }
 .hero-content {
   max-width: 1200px;
